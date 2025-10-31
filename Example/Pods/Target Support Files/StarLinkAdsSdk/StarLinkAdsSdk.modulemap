@@ -1,0 +1,6 @@
+framework module StarLinkAdsSdk {
+  umbrella header "StarLinkAdsSdk-umbrella.h"
+
+  export *
+  module * { export * }
+}

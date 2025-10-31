@@ -1,0 +1,6 @@
+framework module Pods_StarLinkAdsSdk_Tests {
+  umbrella header "Pods-StarLinkAdsSdk_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

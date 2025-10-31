@@ -1,0 +1,16 @@
+PODS:
+  - StarLinkAdsSdk (0.1.0)
+
+DEPENDENCIES:
+  - StarLinkAdsSdk (from `../`)
+
+EXTERNAL SOURCES:
+  StarLinkAdsSdk:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  StarLinkAdsSdk: b916e3a43b693a704ed4b46a77dc1931c5a340d6
+
+PODFILE CHECKSUM: 71c53225b90330e1e4e6488c8ad27643749a11ba
+
+COCOAPODS: 1.16.2
