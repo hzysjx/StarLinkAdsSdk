@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'StarLinkAdsSdk'
-  s.version          = '1.7.0.2'
+  s.version          = '1.7.0.3'
   s.summary          = 'StarLink iOS sdk'
 
 # This description is used to generate tags and improve search results.
@@ -40,6 +40,7 @@ TODO: Add long description of the pod here.
   s.dependency 'ToBid-iOS/GDTAdapter','4.7.2'
   s.dependency 'ToBid-iOS/BaiduAdapter','4.7.2'
   s.dependency 'ToBid-iOS/KSAdapter','4.7.2'
+  s.dependency 'ToBid-iOS/CSJMediationAdapter','4.7.2'
   s.dependency 'ToBid-iOS/AdScopeAdapter','4.7.2'
   s.static_framework = true
 end
